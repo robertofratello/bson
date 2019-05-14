@@ -33,7 +33,7 @@ Quick start
 
 .. sourcecode:: python
 
-   >>> import bson
+   >>> import bsonutils as bson
    >>> a = bson.dumps({"A":[1,2,3,4,5,"6", u"7", {"C":u"DS"}]})
    >>> b = bson.loads(a)
    >>> b
