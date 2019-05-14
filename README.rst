@@ -25,7 +25,7 @@ or can use pip
 
 .. sourcecode:: bash
 
-   ~ $ pip install git+https://github.com/robertofratello/keras-tensorflow2.0compat/#egg=keras
+   ~ $ pip install git+https://github.com/robertofratello/keras-tensorflow2.0compat/#egg=bsonutils
 
 
 Quick start
