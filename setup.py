@@ -24,7 +24,7 @@ class NewInstall(install):
 
 
 setup(
-    name="bson",
+    name="bsonutils",
     version="0.5.8",
     packages=["bson"],
     install_requires=["python-dateutil>=2.4.0", "six>=1.9.0"],
